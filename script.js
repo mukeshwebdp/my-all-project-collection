@@ -60,7 +60,7 @@ item.forEach(()=>{
 })
 
 const boxNumber = document.querySelectorAll('.box')
-console.log(` hello  : ${boxNumber.length}`);
+
 
 //  data write in box
 
