@@ -4,14 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css">
-    <title>Document</title>
+    <title>Code With Mukesh</title>
 </head>
 <body>
     <nav>
         <!-- <div class="text-effect"><span>hello Mukesh</span></div> -->
         <ul>
-            <li><a href="">Code with Mukesh</a></li>
-            <li id="list"></li>
+            <li class="hideOnMobile"><a style="background-color: #D10000; color: #fff;">Code with Mukesh</a></li>
+            <li class="typingText" id="list"></li>
+            <li class="hideOnMobile"><a href="www.linkedin.com/in/mukeshwebdp" target="_blank">Linkdin</a></li>
+            <li class="hideOnMobile"><a href="https://github.com/mukeshwebdp" target="_blank">Github</a></li>
+            <li class="hideOnMobile"><a href="https://www.instagram.com/mukesh_bca/" target="_blank">Instagram</a></li>
+            <li class="hideOnMobile"><a href="https://mukeshwebdp.github.io/my-all-project-collection/" target="_blank">Home</a></li>
+            <li class="manu-button" onclick=showSidebar()><a ><svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg>
+            </a></li>
+        </ul>
+        <ul class="sidebar">
+            <li><a onclick=hideSidebar()><svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></a></li>
             <li><a href="www.linkedin.com/in/mukeshwebdp" target="_blank">Linkdin</a></li>
             <li><a href="https://github.com/mukeshwebdp" target="_blank">Github</a></li>
             <li><a href="https://www.instagram.com/mukesh_bca/" target="_blank">Instagram</a></li>
@@ -19,7 +28,6 @@
         </ul>
     </nav>
     <div class="container">
-        
     </div>
     <script src="./script.js"></script>
 </body>
