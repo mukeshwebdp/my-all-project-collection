@@ -92,7 +92,7 @@ item.forEach((item,index)=>{
     link.href = `${data.link}`; // host link
     link.target ='_blank'
     link.classList.add('pbtn');
-    link.innerText = `Link`
+    link.innerText = `Demo`
 })
 
 // nav bar text writen effect
