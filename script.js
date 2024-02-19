@@ -48,6 +48,11 @@ const item = [{
     projectName: 'BMI Calculator',
     sourceCode: 'https://github.com/mukeshwebdp/BMI-mini-project.git',
     link:'https://mukeshwebdp.github.io/BMI-mini-project/'
+},{
+     photo: './photo/Themes-changer.png',
+    projectName: 'Themes Changer',
+    sourceCode: 'https://github.com/mukeshwebdp/Theme-Changer.git',
+    link:'https://mukeshwebdp.github.io/Theme-Changer/'
 }
 
 ]
