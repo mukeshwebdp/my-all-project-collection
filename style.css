@@ -63,6 +63,7 @@ nav li:first-of-type{
     transform: translateY(10%);
     font-size: 22px;
     font-weight: bolder;
+    text-decoration-style: dashed;
     font-family: 'Outfit', sans-serif;
 
     color: #3120c5;
