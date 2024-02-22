@@ -53,6 +53,11 @@ const item = [{
     projectName: 'Themes Changer',
     sourceCode: 'https://github.com/mukeshwebdp/Theme-Changer.git',
     link:'https://mukeshwebdp.github.io/Theme-Changer/'
+},{
+    photo: './photo/Rotaing-navigation.png',
+    projectName: 'Rotaing Navigation',
+    sourceCode: 'https://github.com/mukeshwebdp/rotating-navigation.git',
+    link:'https://mukeshwebdp.github.io/rotating-navigation/'
 }
 
 ]
