@@ -105,7 +105,7 @@ nav li:first-of-type{
 .box{
     width: 300px;
     margin: auto;
-    border: 2px solid red;
+    border: 4px solid red;
     text-align: center;
     border-radius: 5px;
     overflow: hidden;
@@ -113,6 +113,9 @@ nav li:first-of-type{
     background-color: #eee;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.986);
 
+}
+.box:hover{
+    border: 4px solid blue;
 }
 .box img{
     width: 100%;
