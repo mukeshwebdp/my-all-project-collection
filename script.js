@@ -63,7 +63,7 @@ const item = [{
     projectName: 'Blurry Loading Page',
     sourceCode: 'https://github.com/mukeshwebdp/blurry-loading.git',
     link:'https://github.com/mukeshwebdp/blurry-loading.git'
-
+}
 ]
 // create box
 item.forEach(()=>{
