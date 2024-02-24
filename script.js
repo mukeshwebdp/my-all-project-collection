@@ -58,7 +58,11 @@ const item = [{
     projectName: 'Rotaing Navigation',
     sourceCode: 'https://github.com/mukeshwebdp/rotating-navigation.git',
     link:'https://mukeshwebdp.github.io/rotating-navigation/'
-}
+},{
+     photo: './photo/blurry-loading.png',
+    projectName: 'Blurry Loading Page',
+    sourceCode: 'https://github.com/mukeshwebdp/blurry-loading.git',
+    link:'https://github.com/mukeshwebdp/blurry-loading.git'
 
 ]
 // create box
