@@ -62,7 +62,7 @@ const item = [{
     photo: './photo/blurry-loading.png',
     projectName: 'Blurry Loading Page',
     sourceCode: 'https://github.com/mukeshwebdp/blurry-loading.git',
-    link:'https://github.com/mukeshwebdp/blurry-loading.git'
+    link:'https://mukeshwebdp.github.io/blurry-loading/'
 }
 ]
 // create box
