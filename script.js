@@ -49,17 +49,17 @@ const item = [{
     sourceCode: 'https://github.com/mukeshwebdp/BMI-mini-project.git',
     link:'https://mukeshwebdp.github.io/BMI-mini-project/'
 },{
-     photo: './photo/Themes-changer.png',
-    projectName: 'Themes Changer',
-    sourceCode: 'https://github.com/mukeshwebdp/Theme-Changer.git',
-    link:'https://mukeshwebdp.github.io/Theme-Changer/'
+    photo: './photo/Themes-changer.png',
+   projectName: 'Themes Changer',
+   sourceCode: 'https://github.com/mukeshwebdp/Theme-Changer.git',
+   link:'https://mukeshwebdp.github.io/Theme-Changer/'
 },{
-    photo: './photo/Rotaing-navigation.png',
-    projectName: 'Rotaing Navigation',
-    sourceCode: 'https://github.com/mukeshwebdp/rotating-navigation.git',
-    link:'https://mukeshwebdp.github.io/rotating-navigation/'
+   photo: './photo/Rotaing-navigation.png',
+   projectName: 'Rotaing Navigation',
+   sourceCode: 'https://github.com/mukeshwebdp/rotating-navigation.git',
+   link:'https://mukeshwebdp.github.io/rotating-navigation/'
 },{
-     photo: './photo/blurry-loading.png',
+    photo: './photo/blurry-loading.png',
     projectName: 'Blurry Loading Page',
     sourceCode: 'https://github.com/mukeshwebdp/blurry-loading.git',
     link:'https://github.com/mukeshwebdp/blurry-loading.git'
@@ -101,7 +101,7 @@ item.forEach((item,index)=>{
     link.href = `${data.link}`; // host link
     link.target ='_blank'
     link.classList.add('pbtn');
-    link.innerText = `Demo`
+    link.innerText = `Link`
 })
 
 // nav bar text writen effect
