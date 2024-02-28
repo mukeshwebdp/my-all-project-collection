@@ -63,6 +63,11 @@ const item = [{
     projectName: 'Blurry Loading Page',
     sourceCode: 'https://github.com/mukeshwebdp/blurry-loading.git',
     link:'https://mukeshwebdp.github.io/blurry-loading/'
+},{
+    photo: './photo/password-generator.png',
+    projectName: 'Random Password Generator',
+    sourceCode: 'https://github.com/mukeshwebdp/random-password-generator.git',
+    link:'https://mukeshwebdp.github.io/random-password-generator/'
 }
 ]
 // create box
