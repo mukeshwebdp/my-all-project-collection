@@ -68,6 +68,11 @@ const item = [{
     projectName: 'Random Password Generator',
     sourceCode: 'https://github.com/mukeshwebdp/random-password-generator.git',
     link:'https://mukeshwebdp.github.io/random-password-generator/'
+},{
+    photo: './photo/weave-effect-login-page.png',
+    projectName: 'Weave effect login page',
+    sourceCode: 'https://github.com/mukeshwebdp/weave-effect-login-page.git',
+    link:'https://mukeshwebdp.github.io/weave-effect-login-page/'
 }
 ]
 // create box
