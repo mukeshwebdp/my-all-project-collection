@@ -73,6 +73,11 @@ const item = [{
     projectName: 'Weave effect login page',
     sourceCode: 'https://github.com/mukeshwebdp/weave-effect-login-page.git',
     link:'https://mukeshwebdp.github.io/weave-effect-login-page/'
+},{
+    photo: './photo/registration-page-with-backend.png',
+    projectName: 'Registration and login page with Backend',
+    sourceCode: 'https://github.com/mukeshwebdp/backend-Instagrams.git',
+    link:'https://github.com/mukeshwebdp/backend-Instagrams.git'
 }
 ]
 // create box
