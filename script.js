@@ -78,6 +78,11 @@ const item = [{
     projectName: 'Registration and login page with Backend',
     sourceCode: 'https://github.com/mukeshwebdp/backend-Instagrams.git',
     link:'https://github.com/mukeshwebdp/backend-Instagrams.git'
+},{
+     photo: './photo/git-app.png',
+    projectName: 'Git API fetch data',
+    sourceCode: 'https://github.com/mukeshwebdp/github-app-beploy.git',
+    link:'https://github-app-beploy.vercel.app/'
 }
 ]
 // create box
